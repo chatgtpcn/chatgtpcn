@@ -47,7 +47,7 @@ categories: [CHATGPT]
 
 大家可以直接点链接进去：
 
-[https://bewildcard.com/i/WECARD](https://bewildcard.com/i/OPEN888)，注册的时候如果没有填邀请码，可以手动填入 **OPEN888** 邀请码，可以免 2 美元的开卡费～
+[https://bewildcard.com/i/OPEN888](https://bewildcard.com/i/OPEN888)，注册的时候如果没有填邀请码，可以手动填入 **OPEN888** 邀请码，可以免 2 美元的开卡费～
 
 开通的是有效期2年的虚拟信用卡，开卡费包含两年年费，大约100元RMB，每天成本不到2毛钱。其他费用无，根据个人需求充值。
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  upgradechatgpttoplus
-categories: [CHATGPT]
+title:  2024 年升级 ChatGPT Plus 的教程（虚拟信用卡升级 GPT4.0 ）
+categories: [HTML]
 ---
 
 文章目录
